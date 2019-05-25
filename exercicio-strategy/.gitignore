@@ -1,0 +1,15 @@
+# Arquivos
+**/.classpath
+**/.project
+**/*.class
+**/*.log
+
+# Diretórios
+**/.settings/
+**/target
+
+.DS_Store
+.vscode
+.factorypath
+
+dados
