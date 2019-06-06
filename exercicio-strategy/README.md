@@ -9,7 +9,7 @@ https://github.com/arilsonsantos/practing/blob/master/exercicio-strategy/imagens
 ![alt](imagens/diagramas/diagrama-de-classe.png)
 
 ## Diagrama de Sequência
-https://github.com/arilsonsantos/exercicio-strategy/blob/master/imagens/diagramas/diagrama-de-sequencia.pdf
+https://github.com/arilsonsantos/practing/blob/master/exercicio-strategy/imagens/diagramas/diagrama-de-sequencia.pdf
 ![alt](imagens/diagramas/diagrama-de-sequencia.png)
 
 
