@@ -21,7 +21,7 @@ https://github.com/arilsonsantos/practing/blob/master/exercicio-strategy/imagens
 ##### Maven  -> (https://maven.apache.org/download.cgi)
 ##### Docker -> (https://hub.docker.com/)
 
-##### Efetuar o clone do projeto através da URL https://github.com/arilsonsantos/exercicio-strategy
+##### Efetuar o clone do projeto através da URL https://github.com/arilsonsantos/practing/tree/master/exercicio-strategy
 
 ##### Acessar o diretório do projeto 
 
