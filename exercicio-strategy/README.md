@@ -1,6 +1,6 @@
 # Resolução do exercício
 
-Instruções do exercício -> https://github.com/arilsonsantos/exercicio-strategy/blob/master/INSTRUCOES.md
+Instruções do exercício -> https://github.com/arilsonsantos/practing/blob/master/exercicio-strategy/INSTRUCOES.md
 
 
 ## Diagrama de Classe
