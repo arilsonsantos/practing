@@ -4,7 +4,7 @@ Instruções do exercício -> https://github.com/arilsonsantos/exercicio-strateg
 
 
 ## Diagrama de Classe
-https://github.com/arilsonsantos/exercicio-strategy/master/imagens/diagramas/diagrama-de-classe.pdf
+https://github.com/arilsonsantos/practing/blob/master/exercicio-strategy/imagens/diagramas/diagrama-de-classe.pdf
 
 ![alt](imagens/diagramas/diagrama-de-classe.png)
 
