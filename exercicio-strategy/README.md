@@ -4,12 +4,11 @@ Instruções do exercício -> https://github.com/arilsonsantos/practing/blob/mas
 
 
 ## Diagrama de Classe
-https://github.com/arilsonsantos/practing/blob/master/exercicio-strategy/imagens/diagramas/diagrama-de-classe.pdf
 
 ![alt](imagens/diagramas/diagrama-de-classe.png)
 
 ## Diagrama de Sequência
-https://github.com/arilsonsantos/practing/blob/master/exercicio-strategy/imagens/diagramas/diagrama-de-sequencia.pdf
+
 ![alt](imagens/diagramas/diagrama-de-sequencia.png)
 
 
@@ -34,6 +33,5 @@ java -jar target/prova-java-1.0.0-jar-with-dependencies.jar
 
 #### Exemplo de uma execução:
 
-https://github.com/arilsonsantos/exercicio-strategy/blob/master/imagens/exemplo-execucao.png
 ![alt](imagens/exemplo-execucao.png)
 
